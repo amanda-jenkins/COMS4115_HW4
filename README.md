@@ -261,7 +261,7 @@ To test the programs using the compiler pipeline, follow these steps:
     * chmod +x run_opt.sh
     * run_opt.sh to process the input file.
         *  For example, ./run_opt.sh example.txt
-* You will see the optimized intermediate code in output_code
+* You will see the optimized intermediate code in output_code.c
 
 
 ## Video Demo
